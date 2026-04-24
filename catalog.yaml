@@ -1,0 +1,37 @@
+skills:
+  - name: mem0
+    category: memory
+    source: /Users/jamesfilios/Software_Projects/dm20-ai/.agents/skills/mem0
+    upstream: https://github.com/mem0ai/mem0/tree/main/skills/mem0
+    license: Apache-2.0
+    status: imported
+    tags:
+      - memory
+      - personalization
+      - semantic-search
+      - python
+      - typescript
+
+  - name: grill-me
+    category: planning
+    source: https://github.com/mattpocock/skills/tree/main/grill-me
+    upstream: https://github.com/mattpocock/skills/tree/main/grill-me
+    license: MIT
+    status: imported
+    tags:
+      - planning
+      - design-review
+      - decision-making
+      - interview
+
+  - name: improve-codebase-architecture
+    category: architecture
+    source: https://github.com/mattpocock/skills/tree/main/improve-codebase-architecture
+    upstream: https://github.com/mattpocock/skills/tree/main/improve-codebase-architecture
+    license: MIT
+    status: imported
+    tags:
+      - architecture
+      - refactoring
+      - testability
+      - deep-modules
