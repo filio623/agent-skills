@@ -35,3 +35,93 @@ skills:
       - refactoring
       - testability
       - deep-modules
+
+  - name: design-an-interface
+    category: architecture
+    source: https://github.com/mattpocock/skills/tree/main/design-an-interface
+    upstream: https://github.com/mattpocock/skills/tree/main/design-an-interface
+    license: MIT
+    status: imported
+    tags:
+      - api-design
+      - architecture
+      - interfaces
+      - tradeoffs
+
+  - name: qa
+    category: quality
+    source: https://github.com/mattpocock/skills/tree/main/qa
+    upstream: https://github.com/mattpocock/skills/tree/main/qa
+    license: MIT
+    status: imported
+    tags:
+      - qa
+      - testing
+      - verification
+      - bug-hunting
+
+  - name: request-refactor-plan
+    category: architecture
+    source: https://github.com/mattpocock/skills/tree/main/request-refactor-plan
+    upstream: https://github.com/mattpocock/skills/tree/main/request-refactor-plan
+    license: MIT
+    status: imported
+    tags:
+      - refactoring
+      - planning
+      - architecture
+
+  - name: tdd
+    category: quality
+    source: https://github.com/mattpocock/skills/tree/main/tdd
+    upstream: https://github.com/mattpocock/skills/tree/main/tdd
+    license: MIT
+    status: imported
+    tags:
+      - tdd
+      - testing
+      - implementation
+
+  - name: to-issues
+    category: planning
+    source: https://github.com/mattpocock/skills/tree/main/to-issues
+    upstream: https://github.com/mattpocock/skills/tree/main/to-issues
+    license: MIT
+    status: imported
+    tags:
+      - github
+      - issues
+      - planning
+
+  - name: to-prd
+    category: planning
+    source: https://github.com/mattpocock/skills/tree/main/to-prd
+    upstream: https://github.com/mattpocock/skills/tree/main/to-prd
+    license: MIT
+    status: imported
+    tags:
+      - prd
+      - planning
+      - product
+
+  - name: triage-issue
+    category: planning
+    source: https://github.com/mattpocock/skills/tree/main/triage-issue
+    upstream: https://github.com/mattpocock/skills/tree/main/triage-issue
+    license: MIT
+    status: imported
+    tags:
+      - github
+      - issue-triage
+      - investigation
+
+  - name: ubiquitous-language
+    category: architecture
+    source: https://github.com/mattpocock/skills/tree/main/ubiquitous-language
+    upstream: https://github.com/mattpocock/skills/tree/main/ubiquitous-language
+    license: MIT
+    status: imported
+    tags:
+      - domain-modeling
+      - naming
+      - architecture

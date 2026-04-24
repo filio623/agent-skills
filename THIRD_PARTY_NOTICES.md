@@ -7,8 +7,16 @@ This repository includes skills adapted from upstream open-source repositories.
 - Source: https://github.com/mattpocock/skills
 - License: MIT
 - Imported skills:
+  - `design-an-interface`
   - `grill-me`
   - `improve-codebase-architecture`
+  - `qa`
+  - `request-refactor-plan`
+  - `tdd`
+  - `to-issues`
+  - `to-prd`
+  - `triage-issue`
+  - `ubiquitous-language`
 
 MIT License Copyright (c) 2026 Matt Pocock
 
