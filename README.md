@@ -9,6 +9,7 @@ This repo is intended to be the source of truth for skills that can be pulled in
 ```text
 agent-skills/
 ├── skills/                 # Published skills, one directory per skill
+├── catalog.yaml            # Searchable metadata for categories, sources, and tags
 ├── templates/skill-template/
 │   └── SKILL.md            # Starting point for new skills
 ├── scripts/
@@ -28,6 +29,18 @@ skills/example-skill/
 ├── references/    # Optional detailed docs loaded only when needed
 └── assets/        # Optional templates or files used as outputs
 ```
+
+## Organization
+
+Keep installable skills flat under `skills/<skill-name>/`. Do not nest skills by category, because many agent loaders expect this direct layout.
+
+Use `catalog.yaml` for organization metadata instead:
+
+- `category`: broad grouping such as `memory`, `architecture`, `planning`, or `quality`
+- `source`: where the imported or adapted skill came from
+- `upstream`: canonical project URL when available
+- `license`: upstream license
+- `tags`: searchable labels
 
 ## Add a Skill
 
